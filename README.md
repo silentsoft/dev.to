@@ -1,2 +1,2 @@
 ## Table of Contents
-- [The semantic emptiness of objects in the if statement](posts/the-semantic-emptiness-of-objects-in-the-if-statement.md)
+- [The Semantic Emptiness of Objects in the If Statement](posts/the-semantic-emptiness-of-objects-in-the-if-statement.md)

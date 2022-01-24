@@ -1,4 +1,4 @@
-# The semantic emptiness of objects in the if statement
+# The Semantic Emptiness of Objects in the If Statement
 
 ## Philosophy
 A semantic emptiness is a key concept used to indicate the absence of a value. Even if an object is not actually referenced as `null`, it can be considered `null` if it is semantically filled with empty values.
